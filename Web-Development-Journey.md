@@ -1,5 +1,5 @@
 # 🌐 My Web Development Learning Journey
-![Web Development](Web-Development-Journey.jpeg)
+![Web Development Learning Journey](Web-Development-Learning-Journey.jpeg)
 
 I am currently learning the fundamentals of Web Development and improving my understanding through hands-on practice.
 
