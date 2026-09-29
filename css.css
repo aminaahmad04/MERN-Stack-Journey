@@ -1,0 +1,29 @@
+h1 {
+    color: #b92b27;
+}
+*{
+   * {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+}
+h2{
+    color:black;
+}
+p{
+    color:black;
+}
+.upvote{
+    background-color:lightgray; 
+}
+#quora p{
+    color: #b92b27;
+    font-size:20px;
+}
+div p {
+    color:black;
+font-size:20px;}
+div p a{
+    color:#b92b27;
+    background-color:yellow
+}
